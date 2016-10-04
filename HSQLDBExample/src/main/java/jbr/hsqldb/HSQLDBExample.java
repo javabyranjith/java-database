@@ -5,6 +5,9 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+/**
+Example program for HSQL Database.
+**/
 public class HSQLDBExample {
   public static void main(String[] args) {
     Connection connection = null;
