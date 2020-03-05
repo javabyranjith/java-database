@@ -1,4 +1,4 @@
-package jbr.hsqldb;
+package jbr.javasql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
