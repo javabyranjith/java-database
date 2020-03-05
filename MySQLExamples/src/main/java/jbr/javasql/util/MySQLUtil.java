@@ -1,4 +1,4 @@
-package jbr.mysql.util;
+package jbr.javasql.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

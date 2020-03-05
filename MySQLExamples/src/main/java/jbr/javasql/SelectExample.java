@@ -1,11 +1,11 @@
-package jbr.mysql;
+package jbr.javasql;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import jbr.mysql.util.MySQLUtil;
+import jbr.javasql.util.MySQLUtil;
 
 public class SelectExample {
 

@@ -5,7 +5,9 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import jbr.mysql.model.EmpInfo;
+import jbr.javasql.SelectDao;
+import jbr.javasql.SelectDaoImpl;
+import jbr.javasql.model.EmpInfo;
 
 public class SelectDaoImplTest {
   private SelectDao selectDao;

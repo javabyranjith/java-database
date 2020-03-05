@@ -1,4 +1,4 @@
-package jbr.mysql;
+package jbr.javasql;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -7,8 +7,8 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import jbr.mysql.model.EmpInfo;
-import jbr.mysql.util.MySQLUtil;
+import jbr.javasql.model.EmpInfo;
+import jbr.javasql.util.MySQLUtil;
 
 public class SelectDaoImpl implements SelectDao {
 

@@ -1,8 +1,8 @@
-package jbr.mysql;
+package jbr.javasql;
 
 import java.util.List;
 
-import jbr.mysql.model.EmpInfo;
+import jbr.javasql.model.EmpInfo;
 
 public interface SelectDao {
 

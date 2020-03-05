@@ -1,4 +1,4 @@
-package jbr.mysql.model;
+package jbr.javasql.model;
 
 public class EmpContact {
 
